@@ -91,7 +91,7 @@ module.exports = function (req, res, url) {
                 <span class="icon-bar"></span>
               </button>
             <a class="navbar-brand" href="/dashboard/videos" title="GoAnimate Legacy Redesigned">
-                <img src="/html/img/logo.png" alt="GoAnimate Legacy Redesigned">
+                <img src="/html/logo.png" alt="GoAnimate Legacy Redesigned">
             </a>
         </div>
         <ul class="nav site-nav-alert-nav hidden-xs">
